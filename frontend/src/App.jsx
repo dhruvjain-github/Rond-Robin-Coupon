@@ -6,7 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 import AdminLogin from "./admin/AdminLogin";
 import AdminDashboard from "./admin/AdminDashboard";
 
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://rond-robin-coupon.onrender.com";
 
 function ClaimCoupon() {
   const [coupon, setCoupon] = useState("");
