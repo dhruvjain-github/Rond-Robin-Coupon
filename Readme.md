@@ -135,7 +135,7 @@ cd coupon-management
 ---
 
 ## 📌 Contributors
-- **Dhruv Jain** - [GitHub](https://github.com/yourusername)
+- **Dhruv Jain** - [GitHub](https://github.com/dhruvjain-github)
   
 ---
 
