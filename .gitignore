@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build files
+dist/
+build/
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+
+# MacOS system files
+Thumbs.db
+
+# MongoDB data
+*.lock
+dump/
+data/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# React/Vite specific
+*.cache
+*.env.local
+
