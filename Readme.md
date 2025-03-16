@@ -138,6 +138,3 @@ cd coupon-management
 - **Dhruv Jain** - [GitHub](https://github.com/dhruvjain-github)
   
 ---
-
-## ⭐ Like This Project?
-Give it a ⭐ on [GitHub](https://github.com/yourusername/coupon-management) 🎉
